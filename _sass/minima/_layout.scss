@@ -140,13 +140,13 @@
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -254,9 +254,33 @@
   }
 }
 
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 5px;
+}
+
+.left {
+  width: 72%;
+}
+
+.right {
+  width: 24%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 /* Cover Image */
 .hero {
   .feature-img: {
-    max-width: 50%;
+    max-width: 30%;
   }
 }
+
