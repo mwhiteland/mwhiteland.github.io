@@ -5,9 +5,9 @@
 
 layout: home
 
- # (![Alt text](images/MPI20428-MarkusWhiteland.jpg?raw=true "Me"){:height="50%" width="50%"})
----
 
+# ![Alt text](images/MPI20428-MarkusWhiteland.jpg?raw=true "Me"){:height="50%" width="50%"}
+---
 I am a postdoctoral researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org), Saarbrücken, Germany. I am working in the Foundations of Automatic Verification group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
 
 ## About me
