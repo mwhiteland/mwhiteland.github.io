@@ -11,7 +11,7 @@ layout: home
 I am a postdoctoral researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org), Saarbrücken, Germany. I am working in the Foundations of Automatic Verification group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
 
 ## About me
-I completed my PhD studies at the Department of Mathematics and Statistics, University of Turku, Finland, under the supervision of [Juhani Karhumäki](https://www.math.utu.fi/en/home/karhumak/) and [Svetlana Puzynina](http://math.nsc.ru/~puzynina/).
+I completed my PhD studies at the Department of Mathematics and Statistics, University of Turku, Finland, under the supervision of [Juhani Karhumäki](https://www.math.utu.fi/en/home/karhumak/) and [Svetlana Puzynina](http://math.nsc.ru/~puzynina/). I have been in Saarbrücken since September 2019.
 
 ## Contact
 email: **mawhit (at) mpi-sws.org** or **markus.whiteland (at) gmail.com**
