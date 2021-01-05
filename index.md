@@ -4,9 +4,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
-
-# ![Alt text](images/MPI20428-MarkusWhiteland.jpg?raw=true "Me"){:height="50%" width="50%"}
 ---
 I am a postdoctoral researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org), Saarbrücken, Germany. I am working in the Foundations of Automatic Verification group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
 
@@ -20,6 +17,9 @@ address: **Campus E1 5, 66123 Saarbrücken, Germany**
 
 ## Research
 My main topic of research is Combinatorics on Words, and recently theoretical aspects of automatic verification.
+
+## Other
+Erdős number: 3 (via Juhani Karhumäki - Jeffrey Shallit - Paul Erdős)
 
 
 
