@@ -41,6 +41,8 @@ With Juhani Karhumäki, Svetlana Puzynina, and Michaël Rao.
 With Jarkko Peltomäki.
 
 # Conference publications and similar
+1. *Equations over the k-binomial monoids*. Accepted to WORDS 2021.
+
 1. *Reachability in Dynamical Systems with Rounding*. FSTTCS 2020, LIPIcs 182(36):1-17 (2020), doi: [10.4230/LIPIcs.FSTTCS.2020.36](https://doi.org/10.4230/LIPIcs.FSTTCS.2020.36). (Preprint available at [arXiv.org](https://arxiv.org/abs/2009.13353).)
 With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefaucheux, Joël Ouaknine, Amaury Pouly, David Purser.
 
