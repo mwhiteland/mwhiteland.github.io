@@ -67,5 +67,5 @@ With Jarkko Peltomäki.
 
 # Other
 
-1. *On the k-abelian Equivalence Relation of Finite Words*. TUCS Dissertations 241. PhD Dissertation (University of Turku). url: [https://urn.fi/URN:ISBN:978-952-12-3837-6](http://urn.fi/URN:ISBN:978-952-12-3837-6).
+- *On the k-abelian Equivalence Relation of Finite Words*. TUCS Dissertations 241. PhD Dissertation (University of Turku). url: [https://urn.fi/URN:ISBN:978-952-12-3837-6](http://urn.fi/URN:ISBN:978-952-12-3837-6).
 Accepted with Honors.
