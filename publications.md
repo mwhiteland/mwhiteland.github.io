@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-Last updated on {% last_modified_at %} (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html).)
+Last updated on 02/05/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html).)
 
 # Submitted and in preparation
 
