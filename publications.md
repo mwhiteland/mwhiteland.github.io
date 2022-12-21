@@ -81,11 +81,11 @@ With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefauc
 doi: [10.1007/978-3-031-05578-2_20](https://doi.org/10.1007/978-3-031-05578-2_20)  
 With Michel Rigo and Manon Stipulanti.
 
-0. *Binomial Complexities and Parikh-Collinear Morphisms*. Proceedings of DLT 2022: LNCS 13257:251-262  
+0. *Binomial Complexities and Parikh-Collinear Morphisms*. Proceedings of DLT 2022: LNCS 13257:251-262 (2022)  
 doi: [10.1007/978-3-031-05578-2_20](https://doi.org/10.1007/978-3-031-05578-2_20)  
 With Michel Rigo and Manon Stipulanti.
 
-0. *What's decidable about linear loops?*. Proceedings of the ACM on Programming Languages 6 (POPL),(65):1-25 (2022)  
+0. *What's decidable about linear loops?*. Proceedings of the ACM on Programming Languages 6 (POPL), (65):1-25 (2022)  
 doi: [10.1145/3498727](https://doi.org/10.1145/3498727)  
 With Toghrul Karimov, Engel Lefaucheux, Joël Ouaknine, David Purser, Anton Varonka, James Worrell.
 
