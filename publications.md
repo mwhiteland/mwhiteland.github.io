@@ -70,7 +70,10 @@ With Jarkko Peltomäki.
 
 
 # Conference publications and similar
-0. *The boundedness and zero isolation problems for weighted automata over nonnegative rationals*. Proceedings of LICS 2022: 15:1-13 (2022)  
+0. *The boundedness and zero isolation problems for weighted automata over nonnegative rationals*. Proceedings of LICS 2022: 15:1-13 (2022)
+
+doi: [10.1145/3531130.3533336](https://doi.org/10.1145/3531130.3533336)
+
 With Wojciech Czerwiński, Engel Lefaucheux, Filip Mazowiecki, and David Purser
 
 0. *On extended boundary sequences of morphic and Sturmian words*. Proceedings of MFCS 2022: 79:1-16 (2022)
