@@ -10,11 +10,11 @@ Last updated on 21/12/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5
 
 - *On extended boundary sequences of morphic and Sturmian words*. Submitted (2022)  
 (Preprint available at [arxiv.org](https://arxiv.org/abs/2206.15319).)  
-With Michel Rigo and Manon Stipulanti
+With Michel Rigo and Manon Stipulanti.
 
 - *Characterizations of families of morphisms and words via binomial complexities*. Submitted (2022)  
 (Preprint available [arxiv.org](https://arxiv.org/abs/2201.04603))  
-With Michel Rigo and Manon Stipulanti
+With Michel Rigo and Manon Stipulanti.
 
 - *On Abelian Closures of Infinite Non-binary Words*. Submitted (2021).  
 (Preprint available at [arxiv.org](https://arxiv.org/abs/2012.14701).)  
