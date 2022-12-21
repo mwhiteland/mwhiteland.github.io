@@ -20,7 +20,7 @@ With Michel Rigo and Manon Stipulanti
 (Preprint available at [arxiv.org](https://arxiv.org/abs/2012.14701).)  
 With Juhani Karhumäki and Svetlana Puzynina.
 
-[//]: # (- *On Positivity and Minimality for Second-Order Holonomic Sequences*. In preparation (2021). (Preprint available at [arxiv.org](https://arxiv.org/abs/2007.12282)).  
+[//]: # (- *On Positivity and Minimality for Second-Order Holonomic Sequences*. In preparation (2021). (Preprint available at [arxiv.org](https://arxiv.org/abs/2007.12282)).
 With George Kenison, Oleksiy Klurman, Florian Luca, Pieter Moree, Engel Lefaucheux, Joël Ouaknine, and James Worrell.
 
 
