@@ -3,17 +3,16 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-Last updated on 02/05/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html).)
+Last updated on 21/12/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html).)
 
 # Submitted and in preparation
 
-- *On extended boundary sequences of morphic and Sturmian words*. Submitted (2022)  
+
+- *On extended boundary sequences of morphic and Sturmian words*. Submitted (2022)
+(Preprint available at [arxiv.org](https://arxiv.org/abs/2206.15319).)
 With Michel Rigo and Manon Stipulanti
 
-- *Parameter Synthesis for Parametric Probabilistic Dynamical Systems and Prefix-Independent Specifications*. Submitted (2022)  
-With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefaucheux, Joel Ouaknine, David Purser, and James Worrell
-
-- *Binomial Complexities and Parikh-Collinear Morphisms*. In preparation (2022)  
+- *Characterizations of families of morphisms and words via binomial complexities*. Submitted (2022)  
 (Preprint available [arxiv.org](https://arxiv.org/abs/2201.04603))  
 With Michel Rigo and Manon Stipulanti
 
@@ -28,6 +27,7 @@ With Juhani Karhumäki and Svetlana Puzynina.
 
 
 # Journal articles
+
 0. *Abelian closures of infinite binary words*. Journal of Combinatorial Theory, Series A, 185: 105524 (2022)  
 doi:[10.1016/j.jcta.2021.105524](https://doi.org/10.1016/j.jcta.2021.105524).  
 With Svetlana Puzynina.
@@ -68,12 +68,19 @@ With Jarkko Peltomäki.
 
 
 # Conference publications and similar
-
-0. *The boundedness and zero isolation problems for weighted automata over nonnegative rationals*. LICS 2022: (accepted)  
+0. *The boundedness and zero isolation problems for weighted automata over nonnegative rationals*. Proceedings of LICS 2022: 15:1-13 (2022)  
 With Wojciech Czerwiński, Engel Lefaucheux, Filip Mazowiecki, and David Purser
 
-0. *Binomial Complexities and Parikh-Collinear Morphisms*. DLT 2022: LNCS 13257  
-(to appear)  
+0. *On extended boundary sequences of morphic and Sturmian words*. Proceedings of MFCS 2022: 79:1-16 (2022)
+doi: [10.1007/978-3-031-05578-2_20](https://doi.org/10.1007/978-3-031-05578-2_20)
+With Michel Rigo and Manon Stipulanti
+
+0. *Parameter Synthesis for Parametric Probabilistic Dynamical Systems and Prefix-Independent Specifications*. Proceedings of CONCUR 2022: 10:1-16 (2022)
+doi: [10.4230/LIPIcs.CONCUR.2022.10](https://doi.org/10.4230/LIPIcs.CONCUR.2022.10)
+With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefaucheux, Joel Ouaknine, David Purser, and James Worrell
+
+0. *Binomial Complexities and Parikh-Collinear Morphisms*. Proceedings of DLT 2022: LNCS 13257:251-262
+doi: [10.1007/978-3-031-05578-2_20](https://doi.org/10.1007/978-3-031-05578-2_20)
 With Michel Rigo and Manon Stipulanti
 
 0. *What's decidable about linear loops?*. Proceedings of the ACM on Programming Languages 6(POPL): 1-25 (2022)  
