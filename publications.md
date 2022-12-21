@@ -77,7 +77,7 @@ With Wojciech Czerwiński, Engel Lefaucheux, Filip Mazowiecki, and David Purser.
 doi: [10.1007/978-3-031-05578-2_20](https://doi.org/10.1007/978-3-031-05578-2_20)  
 With Michel Rigo and Manon Stipulanti.
 
-0. *Parameter Synthesis for Parametric Probabilistic Dynamical Systems and Prefix-Independent Specifications*. Proceedings of CONCUR 2022: 10:1-16 (2022)  
+0. *Parameter Synthesis for Parametric Probabilistic Dynamical Systems and Prefix-Independent Specifications*. Proceedings of CONCUR 2022: LIPIcs 243(10):1-16 (2022)  
 doi: [10.4230/LIPIcs.CONCUR.2022.10](https://doi.org/10.4230/LIPIcs.CONCUR.2022.10)  
 With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefaucheux, Joel Ouaknine, David Purser, and James Worrell.
 
