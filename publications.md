@@ -8,7 +8,7 @@ Last updated on 29/12/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5
 # Submitted and in preparation
 
 - *On the Monniaux problem for Convex Invariants*.    
-With Engel Lefaucheux, Mohan, Dantam, Joël Ouaknine, James Worrell  
+With Engel Lefaucheux, Mohan Dantam, Joël Ouaknine, James Worrell  
 In preparation (2022)  
 
 - *q-deformations of binomial coefficients of words*.    
