@@ -159,6 +159,11 @@ doi: [10.4230/lipics.mfcs.2022.79](https://dx.doi.org/10.4230/lipics.mfcs.2022.7
 With Michel Rigo, Manon Stipulanti  
 Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
 
+0. *The Boundedness and Zero Isolation Problems for Weighted Automata over Nonnegative Rationals*.  
+Proceedings of the 37th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS ' 22:#15, (2022).  
+doi: [10.1145/3531130.3533336](https://dx.doi.org/10.1145/3531130.3533336)    
+With Wojciech Czerwi\ŉski, Engel Lefaucheux, Filip Mazowiecki, David Purser
+
 # Other 
 
 - *On the k-abelian Equivalence Relation of Finite Words*.PhD dissertation (University of Turku), Turku Centre for Computer Science, TUCS Dissertations vol. 241  
