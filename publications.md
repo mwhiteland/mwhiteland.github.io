@@ -141,9 +141,6 @@ Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
 # Other 
 
 - *On the k-abelian Equivalence Relation of Finite Words*.  
-
 PhD dissertation (University of Turku), Turku Centre for Computer Science, TUCS Dissertations vol. 241  
-
 Available at: https://urn.fi/URN:ISBN:978-952-12-3837-6  
-
 Accepted with honours
