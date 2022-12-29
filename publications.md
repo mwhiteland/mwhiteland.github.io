@@ -4,6 +4,27 @@ title: "Publications"
 permalink: /publications/
 ---
 Last updated on 29/12/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html).
+
+# Submitted and in preparation
+
+- *On the Monniaux problem for Convex Invariants*.    
+With Engel Lefaucheux, Mohan, Dantam, Joël Ouaknine, James Worrell  
+In preparation (2022)  
+
+- *q-deformations of binomial coefficients of words*.    
+With Antoine Renard, Michel Rigo  
+In preparation (2022)  
+
+- *On extended boundary sequences of morphic and Sturmian words*.    
+With Michel Rigo, Manon Stipulanti  
+(Journal version) Submitted (2022)    
+Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
+
+- *Characterizations of families of morphisms and words via binomial complexities*.    
+With Michel Rigo, Manon Stipulanti  
+Submitted (2022)    
+Preprint available at ArXiv: [2201.04603](https://arxiv.org/abs/2201.04603)
+
 # Journal articles 
 
 0. *k-abelian equivalence and rationality*.  
@@ -140,7 +161,6 @@ Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
 
 # Other 
 
-- *On the k-abelian Equivalence Relation of Finite Words*.  
-PhD dissertation (University of Turku), Turku Centre for Computer Science, TUCS Dissertations vol. 241  
+- *On the k-abelian Equivalence Relation of Finite Words*.PhD dissertation (University of Turku), Turku Centre for Computer Science, TUCS Dissertations vol. 241  
 Available at: [https://urn.fi/URN:ISBN:978-952-12-3837-6](https://urn.fi/URN:ISBN:978-952-12-3837-6)  
 Accepted with honours
