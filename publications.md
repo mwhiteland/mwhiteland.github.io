@@ -62,78 +62,78 @@ Preprint available at ArXiv: [2008.08125](https://arxiv.org/abs/2008.08125)
 # Conference articles and similar 
 
 0. *Degrees of transducibility*.  
-WORDS'15, LNCS 9304:1-13, (2015).
+WORDS'15, LNCS 9304:1-13, (2015).  
 doi: [10.1007/978-3-319-23660-5_1](https://dx.doi.org/10.1007/978-3-319-23660-5_1)    
 With Jörg Endrullis, Jan Willem Klop, Aleksi Saarela
 
 0. *A square root map on Sturmian words (extended abstract)*.  
-WORDS'15, LNCS 9304:197-209, (2015).
+WORDS'15, LNCS 9304:197-209, (2015).  
 doi: [10.1007/978-3-319-23660-5_17](https://dx.doi.org/10.1007/978-3-319-23660-5_17)    
 With Jarkko Peltomäki
 
 0. *k-abelian equivalence and rationality*.  
-DLT'16, LNCS 9840:77-88, (2016).
+DLT'16, LNCS 9840:77-88, (2016).  
 doi: [10.1007/978-3-662-53132-7_7](https://dx.doi.org/10.1007/978-3-662-53132-7_7)    
 With Julien Cassaigne, Juhani Karhumäki, Svetlana Puzynina
 
 0. *More on the dynamics of the symbolic square root map (extended abstract)*.  
-WORDS'17, LNCS 10432:97-108, (2017).
+WORDS'17, LNCS 10432:97-108, (2017).  
 doi: [10.1007/978-3-319-66396-8_10](https://dx.doi.org/10.1007/978-3-319-66396-8_10)    
 With Jarkko Peltomäki
 
 0. *On Abelian subshifts*.  
-DLT'18, LNCS 11088:453-464, (2018).
+DLT'18, LNCS 11088:453-464, (2018).  
 doi: [10.1007/978-3-319-98654-8_37](https://dx.doi.org/10.1007/978-3-319-98654-8_37)    
 With Juhani Karhumäki, Svetlana Puzynina
 
 0. *Regularity of k-Abelian equivalence classes of fixed cardinality*.  
-Adventures between lower bounds and higher altitudes, LNCS 11011:49-62, (2018).
+Adventures between lower bounds and higher altitudes, LNCS 11011:49-62, (2018).  
 doi: [10.1007/978-3-319-98355-4_4](https://dx.doi.org/10.1007/978-3-319-98355-4_4)    
 With Juhani Karhumäki
 
 0. *Every nonnegative real number is an abelian critical exponent*.  
-WORDS'19, LNCS 11682:275-285, (2019).
+WORDS'19, LNCS 11682:275-285, (2019).  
 doi: [10.1007/978-3-030-28796-2_22](https://dx.doi.org/10.1007/978-3-030-28796-2_22)    
 With Jarkko Peltomäki  
 Preprint available at ArXiv: [1906.00665](https://arxiv.org/abs/1906.00665)
 
 0. *Reachability in dynamical systems with rounding*.  
-FSTTCS'20, LIPIcs. Leibniz Int. Proc. Inform. 182:36, 17, (2020).
+FSTTCS'20, LIPIcs. Leibniz Int. Proc. Inform. 182:36, 17, (2020).  
 doi: [10.4230/LIPIcs.FSTTCS.2020.36](https://dx.doi.org/10.4230/LIPIcs.FSTTCS.2020.36)    
 With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefaucheux, Joël Ouaknine, Amaury Pouly, David Purser
 
 0. *All growth rates of Abelian exponents are attained by infinite binary words*.  
-MFCS'20, LIPIcs. Leibniz Int. Proc. Inform. 170:79, 10, (2020).
+MFCS'20, LIPIcs. Leibniz Int. Proc. Inform. 170:79, 10, (2020).  
 doi: [10.4230/LIPIcs.MFCS.2020.79](https://dx.doi.org/10.4230/LIPIcs.MFCS.2020.79)    
 With Jarkko Peltomäki
 
 0. *The orbit problem for parametric linear dynamical systems*.  
-CONUCR'21, LIPIcs. Leibniz Int. Proc. Inform. 203:28, (2021).
+CONUCR'21, LIPIcs. Leibniz Int. Proc. Inform. 203:28, (2021).  
 doi: [10.4230/LIPIcs.CONCUR.2021.28](https://dx.doi.org/10.4230/LIPIcs.CONCUR.2021.28)    
 With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefaucheux, Florian Luca, Joël Ouaknine, David Purser, James Worrell
 
 0. *On positivity and minimality for second-order holonomic sequences*.  
-MFCS'21, LIPIcs. Leibniz Int. Proc. Inform. 202:67, 15, (2021).
+MFCS'21, LIPIcs. Leibniz Int. Proc. Inform. 202:67, 15, (2021).  
 doi: [10.4230/LIPIcs.MFCS.2021.67](https://dx.doi.org/10.4230/LIPIcs.MFCS.2021.67)    
 With George Kenison, Oleksiy Klurman, Engel Lefaucheux, Florian Luca, Pieter Moree, Joël Ouaknine, James Worrell
 
 0. *Equations over the k-binomial monoids*.  
-WORDS'21, LNCS 12847:185-197, (2021).
+WORDS'21, LNCS 12847:185-197, (2021).  
 doi: [10.1007/978-3-030-85088-3_16](https://dx.doi.org/10.1007/978-3-030-85088-3_16)  
 
 0. *Parameter synthesis for parametric probabilistic dynamical systems and prefix-independent specifications*.  
-CONCUR'22, LIPIcs. Leibniz Int. Proc. Inform. 243:10, 1-16, (2022).
+CONCUR'22, LIPIcs. Leibniz Int. Proc. Inform. 243:10, 1-16, (2022).  
 doi: [10.4230/lipics.concur.2022.10](https://dx.doi.org/10.4230/lipics.concur.2022.10)    
 With Christel Baier, Florian Funke, Simon Jantsch, Toghrul Karimov, Engel Lefaucheux, Joël Ouaknine, David Purser, James Worrell
 
 0. *Binomial complexities and Parikh-collinear morphisms*.  
-DLT'22, LNCS 13257:251-262, (2022).
+DLT'22, LNCS 13257:251-262, (2022).  
 doi: [10.1007/978-3-031-05578-2_20](https://dx.doi.org/10.1007/978-3-031-05578-2_20)    
 With Michel Rigo, Manon Stipulanti  
 Preprint available at ArXiv: [2201.04603v1](https://arxiv.org/abs/2201.04603v1)
 
 0. *On extended boundary sequences of morphic and Sturmian words*.  
-MFCS'22, LIPIcs. Leibniz Int. Proc. Inform. 241:#79, 1--16, (2022).
+MFCS'22, LIPIcs. Leibniz Int. Proc. Inform. 241:#79, 1--16, (2022).  
 doi: [10.4230/lipics.mfcs.2022.79](https://dx.doi.org/10.4230/lipics.mfcs.2022.79)    
 With Michel Rigo, Manon Stipulanti  
 Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
