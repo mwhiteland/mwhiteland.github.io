@@ -6,57 +6,57 @@ permalink: /publications/
 Last updated on 29/12/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html).
 # Journal articles 
 
-0. *k-abelian equivalence and rationality*
-Fundamenta Informaticae 154(1-4):65-94, (2017).
-doi: [10.3233/FI-2017-1553](https://dx.doi.org/10.3233/FI-2017-1553)
+0. *k-abelian equivalence and rationality*  
+Fundamenta Informaticae 154(1-4):65-94, (2017).  
+doi: [10.3233/FI-2017-1553](https://dx.doi.org/10.3233/FI-2017-1553)    
  With Julien Cassaigne, Juhani Karhumäki, Svetlana Puzynina
 
-0. *On cardinalities of k-abelian equivalence classes*
-Theoretical Computer Science 658(part A):190-204, (2017).
-doi: [10.1016/j.tcs.2016.06.010](https://dx.doi.org/10.1016/j.tcs.2016.06.010)
+0. *On cardinalities of k-abelian equivalence classes*  
+Theoretical Computer Science 658(part A):190-204, (2017).  
+doi: [10.1016/j.tcs.2016.06.010](https://dx.doi.org/10.1016/j.tcs.2016.06.010)    
  With Juhani Karhumäki, Svetlana Puzynina, Michaël Rao
 
-0. *A square root map on Sturmian words*
-Electronic Journal of Combinatorics 24(1):1.54, 50, (2017).
-doi: [10.37236/6074](https://dx.doi.org/10.37236/6074)
+0. *A square root map on Sturmian words*  
+Electronic Journal of Combinatorics 24(1):1.54, 50, (2017).  
+doi: [10.37236/6074](https://dx.doi.org/10.37236/6074)    
  With Jarkko Peltomäki
 
-0. *Asymptotic abelian complexities of certain morphic binary words*
-Journal of Automata, Languages and Combinatorics 24(1):89-114, (2019).
-doi: [10.25596/jalc-2019-089](https://dx.doi.org/10.25596/jalc-2019-089)
+0. *Asymptotic abelian complexities of certain morphic binary words*  
+Journal of Automata, Languages and Combinatorics 24(1):89-114, (2019).  
+doi: [10.25596/jalc-2019-089](https://dx.doi.org/10.25596/jalc-2019-089)  
 
-0. *A compactness property of the k-abelian monoids*
-Theoretical Computer Science 834:3-13, (2020).
-doi: [10.1016/j.tcs.2020.01.023](https://dx.doi.org/10.1016/j.tcs.2020.01.023)
+0. *A compactness property of the k-abelian monoids*  
+Theoretical Computer Science 834:3-13, (2020).  
+doi: [10.1016/j.tcs.2020.01.023](https://dx.doi.org/10.1016/j.tcs.2020.01.023)    
  With Juhani Karhumäki
 
-0. *Avoiding abelian powers cyclically*
-Advances in Applied Mathematics 121:102095, 22, (2020).
-doi: [10.1016/j.aam.2020.102095](https://dx.doi.org/10.1016/j.aam.2020.102095)
- With Jarkko Peltomäki
+0. *Avoiding abelian powers cyclically*  
+Advances in Applied Mathematics 121:102095, 22, (2020).  
+doi: [10.1016/j.aam.2020.102095](https://dx.doi.org/10.1016/j.aam.2020.102095)    
+ With Jarkko Peltomäki  
 Preprint available at ArXiv: [2006.06307](https://arxiv.org/abs/2006.06307)
 
-0. *On k-abelian equivalence and generalized Lagrange spectra*
-Acta Arithmetica 194(2):135-154, (2020).
-doi: [10.4064/aa180927-10-9](https://dx.doi.org/10.4064/aa180927-10-9)
- With Jarkko Peltomäki
+0. *On k-abelian equivalence and generalized Lagrange spectra*  
+Acta Arithmetica 194(2):135-154, (2020).  
+doi: [10.4064/aa180927-10-9](https://dx.doi.org/10.4064/aa180927-10-9)    
+ With Jarkko Peltomäki  
 Preprint available at ArXiv: [1809.09047](https://arxiv.org/abs/1809.09047)
 
-0. *More on the dynamics of the symbolic square root map*
-Theoretical Computer Science 806:10-27, (2020).
-doi: [10.1016/j.tcs.2018.08.019](https://dx.doi.org/10.1016/j.tcs.2018.08.019)
- With Jarkko Peltomäki
+0. *More on the dynamics of the symbolic square root map*  
+Theoretical Computer Science 806:10-27, (2020).  
+doi: [10.1016/j.tcs.2018.08.019](https://dx.doi.org/10.1016/j.tcs.2018.08.019)    
+ With Jarkko Peltomäki  
 Preprint available at ArXiv: [1801.00920](https://arxiv.org/abs/1801.00920)
 
-0. *What’s Decidable about Linear Loops?*
-Proc. ACM Program. Lang. (POPL) 6:#65, (2022).
-doi: [10.1145/3498727](https://dx.doi.org/10.1145/3498727)
+0. *What’s Decidable about Linear Loops?*  
+Proc. ACM Program. Lang. (POPL) 6:#65, (2022).  
+doi: [10.1145/3498727](https://dx.doi.org/10.1145/3498727)    
  With Toghrul Karimov, Engel Lefaucheux, Joël Ouaknine, David Purser, Anton Varonka, James Worrell
 
-0. *Abelian closures of infinite binary words*
-Journal of Combinatorial Theory. Series A 185:105524, (2022).
-doi: [10.1016/j.jcta.2021.105524](https://dx.doi.org/10.1016/j.jcta.2021.105524)
- With Svetlana Puzynina
+0. *Abelian closures of infinite binary words*  
+Journal of Combinatorial Theory. Series A 185:105524, (2022).  
+doi: [10.1016/j.jcta.2021.105524](https://dx.doi.org/10.1016/j.jcta.2021.105524)    
+ With Svetlana Puzynina  
 Preprint available at ArXiv: [2008.08125](https://arxiv.org/abs/2008.08125)
 
 # Conference articles and similar 
