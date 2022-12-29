@@ -7,22 +7,22 @@ Last updated on 29/12/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5
 
 # Submitted and in preparation
 
-- *On the Monniaux problem for Convex Invariants*.    
+- *On the Monniaux problem for Convex Invariants*.  
+In preparation (2022)    
 With Engel Lefaucheux, Mohan Dantam, Joël Ouaknine, James Worrell  
-In preparation (2022)  
 
-- *q-deformations of binomial coefficients of words*.    
+- *q-deformations of binomial coefficients of words*.  
+In preparation (2022)    
 With Antoine Renard, Michel Rigo  
-In preparation (2022)  
 
-- *On extended boundary sequences of morphic and Sturmian words*.    
-With Michel Rigo, Manon Stipulanti  
+- *On extended boundary sequences of morphic and Sturmian words*.  
 (Journal version) Submitted (2022)    
+With Michel Rigo, Manon Stipulanti    
 Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
 
-- *Characterizations of families of morphisms and words via binomial complexities*.    
-With Michel Rigo, Manon Stipulanti  
+- *Characterizations of families of morphisms and words via binomial complexities*.  
 Submitted (2022)    
+With Michel Rigo, Manon Stipulanti    
 Preprint available at ArXiv: [2201.04603](https://arxiv.org/abs/2201.04603)
 
 # Journal articles 
