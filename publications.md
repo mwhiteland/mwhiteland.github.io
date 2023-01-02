@@ -162,7 +162,7 @@ Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
 0. *The Boundedness and Zero Isolation Problems for Weighted Automata over Nonnegative Rationals*.  
 Proceedings of the 37th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS ' 22:#15, (2022).  
 doi: [10.1145/3531130.3533336](https://dx.doi.org/10.1145/3531130.3533336)    
-With Wojciech Czerwi\ŉski, Engel Lefaucheux, Filip Mazowiecki, David Purser
+With Wojciech Czerwiński, Engel Lefaucheux, Filip Mazowiecki, David Purser
 
 0. *What’s Decidable about Linear Loops?*.  
 Proc. ACM Program. Lang. (POPL),  6:#65, (2022).  
