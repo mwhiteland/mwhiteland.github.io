@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-Last updated on 29/12/2022 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
+Last updated on 02/01/2023 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
 
 # Submitted and in preparation
 
@@ -24,6 +24,11 @@ Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
 Submitted (2022)    
 With Michel Rigo, Manon Stipulanti    
 Preprint available at ArXiv: [2201.04603](https://arxiv.org/abs/2201.04603)
+
+- *On Abelian Closures of Infinite Non-binary Words*.  
+Submitted (2023)    
+With Juhani Karhumäki, Svetlana Puzynina    
+Preprint available at ArXiv: [2012.14701](https://arxiv.org/abs/2012.14701)
 
 # Journal articles 
 
