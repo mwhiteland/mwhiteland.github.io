@@ -20,7 +20,7 @@ I started as Lecturer (Assistant Professor) at the Department of Computer Scienc
 ## Contact
 email: **markus.whiteland (at) gmail.com** (personal) or **m.a.whiteland (at) lboro.ac.uk** (institutional)
 
-address: **Department of Computer Science (Haslegrave Building), Loughborough University, Epinal Way, Loughborough, Leicestershire, LE11 3TU, United Kingdom**
+address: **Department of Computer Science, Loughborough University, Epinal Way, Loughborough LE11 3TU, United Kingdom**
 
 ## Research
 My main topic of research is Combinatorics on Words, and recently theoretical aspects of Automatic Verification.
