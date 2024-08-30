@@ -129,7 +129,7 @@ WORDS'19, LNCS 11682:275-285, (2019).
 doi: [10.1007/978-3-030-28796-2_22](https://dx.doi.org/10.1007/978-3-030-28796-2_22)    
 With Jarkko Peltomäki  
 Preprint available at ArXiv: [1906.00665](https://arxiv.org/abs/1906.00665)
-:exclamation: **Best Student Paper Award**
+[!NOTE] **Best Student Paper Award**
 
 0. *Reachability in dynamical systems with rounding*.  
 FSTTCS'20, LIPIcs. Leibniz Int. Proc. Inform. 182:36, 17, (2020).  
