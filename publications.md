@@ -12,7 +12,7 @@ In preparation (2022)
 With Engel Lefaucheux, Mohan Dantam, Joël Ouaknine, James Worrell  
 
 - *q-deformations of binomial coefficients of words*.  
-In preparation (2022)    
+Submitted (2023)    
 With Antoine Renard, Michel Rigo  
 
 - *On extended boundary sequences of morphic and Sturmian words*.  
