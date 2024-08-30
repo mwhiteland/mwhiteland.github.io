@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-Last updated on 02/01/2023 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
+Last updated on 30/08/2024 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
 
 # Submitted and in preparation
 
@@ -11,24 +11,17 @@ Last updated on 02/01/2023 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5
 In preparation (2022)    
 With Engel Lefaucheux, Mohan Dantam, Joël Ouaknine, James Worrell  
 
-- *q-deformations of binomial coefficients of words*.  
-Submitted (2023)    
+- *q-Parikh Matrices and q-deformed binomial coefficients of words*.  
+Submitted (2024)    
 With Antoine Renard, Michel Rigo  
 
-- *On extended boundary sequences of morphic and Sturmian words*.  
-(Journal version) Submitted (2022)    
-With Michel Rigo, Manon Stipulanti    
-Preprint available at ArXiv: [2206.15319v1](https://arxiv.org/abs/2206.15319v1)
+- *Introducing q-deformed binomial coefficients of words*.  
+Submitted (2024)    
+With Antoine Renard, Michel Rigo  
 
-- *Characterizations of families of morphisms and words via binomial complexities*.  
-Submitted (2022)    
-With Michel Rigo, Manon Stipulanti    
-Preprint available at ArXiv: [2201.04603](https://arxiv.org/abs/2201.04603)
-
-- *On Abelian Closures of Infinite Non-binary Words*.  
-Submitted (2023)    
-With Juhani Karhumäki, Svetlana Puzynina    
-Preprint available at ArXiv: [2012.14701](https://arxiv.org/abs/2012.14701)
+- *Automatic Abelian Complexities of Parikh-Collinear Fixed Points*.  
+Submitted (2024)    
+With Michel Rigo, Manon Stipulanti  
 
 # Journal articles 
 
@@ -80,6 +73,21 @@ doi: [10.1016/j.jcta.2021.105524](https://dx.doi.org/10.1016/j.jcta.2021.105524)
 With Svetlana Puzynina  
 Preprint available at ArXiv: [2008.08125](https://arxiv.org/abs/2008.08125)
 
+0. *On abelian closures of infinite non-binary words*.  
+Discret. Math. 347(9):114069, (2024).  
+doi: [10.1016/J.DISC.2024.114069](https://dx.doi.org/10.1016/J.DISC.2024.114069)    
+With Juhani Karhumäki, Svetlana Puzynina
+
+0. *On Extended Boundary Sequences of Morphic and Sturmian Words*.  
+Electron. J. Comb. 31(1), (2024).  
+doi: [10.37236/11728](https://dx.doi.org/10.37236/11728)    
+With Michel Rigo, Manon Stipulanti
+
+0. *Characterizations of families of morphisms and words via binomial complexities*.  
+Eur. J. Comb. 118:103932, (2024).  
+doi: [10.1016/J.EJC.2024.103932](https://dx.doi.org/10.1016/J.EJC.2024.103932)    
+With Michel Rigo, Manon Stipulanti
+
 # Conference articles and similar 
 
 0. *Degrees of transducibility*.  
@@ -117,6 +125,7 @@ WORDS'19, LNCS 11682:275-285, (2019).
 doi: [10.1007/978-3-030-28796-2_22](https://dx.doi.org/10.1007/978-3-030-28796-2_22)    
 With Jarkko Peltomäki  
 Preprint available at ArXiv: [1906.00665](https://arxiv.org/abs/1906.00665)
+:exclamation: **Best Student Paper Award**
 
 0. *Reachability in dynamical systems with rounding*.  
 FSTTCS'20, LIPIcs. Leibniz Int. Proc. Inform. 182:36, 17, (2020).  
@@ -169,8 +178,18 @@ Proc. ACM Program. Lang. (POPL),  6:#65, (2022).
 doi: [10.1145/3498727](https://dx.doi.org/10.1145/3498727)    
 With Toghrul Karimov, Engel Lefaucheux, Joël Ouaknine, David Purser, Anton Varonka, James Worrell
 
+0. *Gapped Binomial Complexities in Sequences*.  
+2023 IEEE International Symposium on Information Theory (ISIT),  ():1294-1299, (2023).  
+doi: [10.1109/ISIT54713.2023.10206676](https://dx.doi.org/10.1109/ISIT54713.2023.10206676)    
+With Michel Rigo, Manon Stipulanti
+
+0. *Automaticity and Parikh-Collinear Morphisms*.  
+Combinatorics on Words, :247-260, (2023).  
+doi: [10.1007/978-3-031-33180-0_19](https://dx.doi.org/10.1007/978-3-031-33180-0_19)    
+With Michel Rigo, Manon Stipulanti
+
 # Other 
 
-- *On the k-abelian Equivalence Relation of Finite Words*.PhD dissertation (University of Turku), Turku Centre for Computer Science, TUCS Dissertations vol. 241  
+- *On the k-abelian Equivalence Relation of Finite Words*. PhD dissertation (University of Turku), Turku Centre for Computer Science, TUCS Dissertations vol. 241  
 Available at: [https://urn.fi/URN:ISBN:978-952-12-3837-6](https://urn.fi/URN:ISBN:978-952-12-3837-6)  
 Accepted with honours
