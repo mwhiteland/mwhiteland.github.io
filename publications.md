@@ -11,6 +11,10 @@ Last updated on 30/08/2024 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5
 In preparation (2022)    
 With Engel Lefaucheux, Mohan Dantam, Joël Ouaknine, James Worrell  
 
+- *Computing the k-binomial complexity of generalized Thue– -Morse words*.  
+In preparation (2024)    
+With Mohammadmehdi Golafshan, Michel Rigo  
+
 - *q-Parikh Matrices and q-deformed binomial coefficients of words*.  
 Submitted (2024)    
 With Antoine Renard, Michel Rigo  
