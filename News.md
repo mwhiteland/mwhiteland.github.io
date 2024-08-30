@@ -8,7 +8,7 @@ permalink: /news/
 
 - **Appointment as Lecturer at Department of Computer Science, Loughborough University**
 
-Super exited about turning a page with moving to the UK and joining the wonderful Loughborough University community. I started on August 19, 2024.
+Super excited about turning a page with moving to the UK and joining the wonderful Loughborough University community. I started on August 19, 2024.
 
 - **Success at International Mathematics Competition for University Students!**
 
