@@ -1,8 +1,9 @@
 ----Current todos--------
--Add list of publications
--add list of teaching
+-Update list of publications
+-update list of teaching
+-Add service section: WORDS 2023, DLT 2024, MFCS 2025
 -Other content?
-
+-Dijkstra number = 3 via Joel Ouaknine https://www.csauthors.net/markus-a-whiteland/
 - Trying to add image to background of the theme. See https://stackoverflow.com/questions/54157109/how-to-render-background-image-in-a-page-generated-by-jekyll/54167308
 -------------------------
 
@@ -15,3 +16,12 @@ Find the website running at "http://localhost:4000"
 
 
 -----How to generate list of publications------
+Go to UTU/Henkilokohtaiset/Publications
+
+update bibs2.bib with publications as appropriate (use arxiv key)
+
+(run python3 rename_keys.py)
+
+run python3 tomd.py > publications.md
+
+move publications.md to this repo

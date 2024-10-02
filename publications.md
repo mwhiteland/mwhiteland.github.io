@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-Last updated on 30/08/2024 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
+Last updated on 02/10/2024 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
 
 # Submitted and in preparation
 
@@ -22,10 +22,6 @@ With Antoine Renard, Michel Rigo
 - *Introducing q-deformed binomial coefficients of words*.  
 Submitted (2024)    
 With Antoine Renard, Michel Rigo  
-
-- *Automatic Abelian Complexities of Parikh-Collinear Fixed Points*.  
-Submitted (2024)    
-With Michel Rigo, Manon Stipulanti  
 
 # Journal articles 
 
@@ -82,10 +78,18 @@ Discret. Math. 347(9):114069, (2024).
 doi: [10.1016/J.DISC.2024.114069](https://dx.doi.org/10.1016/J.DISC.2024.114069)    
 With Juhani Karhumäki, Svetlana Puzynina
 
+0. *Automatic Abelian Complexities of Parikh-Collinear Fixed Points*.  
+Theory of Computing Systems, (2024).  
+doi: [10.1007/s00224-024010197-5](https://dx.doi.org/10.1007/s00224-024010197-5)    
+With Michel Rigo, Manon Stipulanti  
+Preprint available at ArXiv: [2405.18032](https://arxiv.org/abs/2405.18032) 
+ [!NOTE] **Accepted**
+
 0. *On Extended Boundary Sequences of Morphic and Sturmian Words*.  
 Electron. J. Comb. 31(1), (2024).  
 doi: [10.37236/11728](https://dx.doi.org/10.37236/11728)    
-With Michel Rigo, Manon Stipulanti
+With Michel Rigo, Manon Stipulanti  
+Preprint available at ArXiv: [2206.15319](https://arxiv.org/abs/2206.15319)
 
 0. *Characterizations of families of morphisms and words via binomial complexities*.  
 Eur. J. Comb. 118:103932, (2024).  
@@ -128,7 +132,7 @@ With Juhani Karhumäki
 WORDS'19, LNCS 11682:275-285, (2019).  
 doi: [10.1007/978-3-030-28796-2_22](https://dx.doi.org/10.1007/978-3-030-28796-2_22)    
 With Jarkko Peltomäki  
-Preprint available at ArXiv: [1906.00665](https://arxiv.org/abs/1906.00665)
+Preprint available at ArXiv: [1906.00665](https://arxiv.org/abs/1906.00665) 
  [!NOTE] **Best Student Paper Award**
 
 0. *Reachability in dynamical systems with rounding*.  

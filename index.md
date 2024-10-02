@@ -26,7 +26,9 @@ address: **Department of Computer Science, Loughborough University, Epinal Way, 
 My main topic of research is Combinatorics on Words, and recently theoretical aspects of Automatic Verification.
 
 ## Other
-Erdős number: 2 (via [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) - Paul Erdős)
+My Erdős number is 2 via [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/): see [AMS MathSciNet Collaboration Distance](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1147099&target=189017)
+
+My Dijkstra number is 3 via [Joël Ouaknine](https://people.mpi-sws.org/~joel/) - [Richard J. Lipton](https://rjlipton.com/): see [https://www.csauthors.net/markus-a-whiteland/](https://www.csauthors.net/markus-a-whiteland/)
 
 
 
