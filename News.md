@@ -6,6 +6,10 @@ permalink: /news/
 
 # News
 
+- **Invited speaker at WORDS'25**
+
+I am honoured to have been invited to give a talk at WORDS'25 held in Nancy, France. Hope to see you there! For more info, see the conference [webiste](https://words2025.loria.fr/en/)
+
 - **Appointment as Lecturer at Department of Computer Science, Loughborough University**
 
 Super excited about turning a page with moving to the UK and joining the wonderful Loughborough University community. I started on August 19, 2024.
