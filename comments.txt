@@ -1,5 +1,5 @@
 ----Current todos--------
--Update list of publications
+-Update list of publications (persistent)
 -update list of teaching
 -Add service section: WORDS 2023, DLT 2024, MFCS 2025
 -Other content?
@@ -9,19 +9,24 @@
 
 
 -----Local testing of modifications to website-----
+
+
+
 modify website and do "bundle exec jekyll serve"
+
+if throws errors, try bundler update
 
 Find the website running at "http://localhost:4000"
 ---------------------------------------------------
 
 
 -----How to generate list of publications------
-Go to UTU/Henkilokohtaiset/Publications
+Go to UTU/Henkilokohtaiset/Publications and run the following commands/updates
 
-update bibs2.bib with publications as appropriate (use arxiv key)
+1) update bibs2.bib with publications as appropriate (use arxiv key)
 
-(run python3 rename_keys.py)
+2) (run python3 rename_keys.py)
 
-run python3 tomd.py > publications.md
+3) run python3 tomd.py > publications.md
 
-move publications.md to this repo
+move publications.md to this folder

@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-Last updated on 02/10/2024 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
+Last updated on 07/01/2025 (Check out [dblp](https://dblp.uni-trier.de/pid/180/5763.html)).
 
 # Submitted and in preparation
 
@@ -12,12 +12,8 @@ In preparation (2022)
 With Engel Lefaucheux, Mohan Dantam, Joël Ouaknine, James Worrell  
 
 - *Computing the k-binomial complexity of generalized Thue-Morse words*.  
-In preparation (2024)    
-With Mohammadmehdi Golafshan, Michel Rigo  
-
-- *q-Parikh Matrices and q-deformed binomial coefficients of words*.  
 Submitted (2024)    
-With Antoine Renard, Michel Rigo  
+With Mohammadmehdi Golafshan, Michel Rigo  
 
 - *Introducing q-deformed binomial coefficients of words*.  
 Submitted (2024)    
@@ -95,6 +91,12 @@ Preprint available at ArXiv: [2206.15319](https://arxiv.org/abs/2206.15319)
 Eur. J. Comb. 118:103932, (2024).  
 doi: [10.1016/J.EJC.2024.103932](https://dx.doi.org/10.1016/J.EJC.2024.103932)    
 With Michel Rigo, Manon Stipulanti
+
+0. *q-Parikh matrices and q-deformed binomial coefficients of words*.  
+Discrete Mathematics 348(5):114381, (2025).  
+doi: [https://doi.org/10.1016/j.disc.2024.114381](https://dx.doi.org/https://doi.org/10.1016/j.disc.2024.114381)    
+With Antoine Renard, Michel Rigo  
+Preprint available at ArXiv: [2402.05657](https://arxiv.org/abs/2402.05657)
 
 # Conference articles and similar 
 
